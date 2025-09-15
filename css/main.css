@@ -1,0 +1,10 @@
+body {
+    background-color: gray;
+}
+body h1 {
+    color: blue;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 60px !important;
+}
