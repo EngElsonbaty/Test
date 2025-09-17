@@ -8,3 +8,11 @@ body h1 {
     text-align: center;
     margin-top: 60px !important;
 }
+body p {
+    color: aqua;
+    font-size: 18;
+    background-color: brown;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
